@@ -1,1 +1,1 @@
-# XtendOps Components Library
+# SvelteKit + Tailwind + Storybook
