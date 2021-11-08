@@ -4,7 +4,7 @@
 </script>
 
 <Meta
-	title="Sveltio/Button"
+	title="Component-Library/Button"
 	component={Button}
 	argTypes={{
 		label: { control: 'text' },

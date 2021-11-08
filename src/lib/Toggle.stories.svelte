@@ -4,7 +4,7 @@
 </script>
 
 <Meta
-	title="Sveltio/Toggle"
+	title="Component-Library/Toggle"
 	component={Toggle}
 	argTypes={{
 		label: { control: 'text' },

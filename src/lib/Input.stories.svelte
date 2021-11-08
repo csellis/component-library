@@ -4,7 +4,7 @@
 </script>
 
 <Meta
-	title="Sveltio/Input"
+	title="Component-Library/Input"
 	component={Input}
 	argTypes={{
 		backgroundColor: { control: 'color' },
